@@ -1,0 +1,32 @@
+   {
+    "data" : [
+        {
+            "users" : [
+                {
+                    "name": "Shalini",
+                    "email": "shalini@gmail.com",
+                    "pass": "123",
+                    "age": 25,
+                    "class": "1B",
+                    "vodeFor": "B"
+                },
+                {
+                    "name": "Yalini",
+                    "email": "yalini@gmail.com",
+                    "pass": "123",
+                    "age": 25,
+                    "class": "1B",
+                    "vodeFor": "C"
+                }
+            ]
+        },
+        {
+            "candidates": {
+                 "Amirah": 5, 
+                 "Lim": 3, 
+                 "Vicky": 1 
+            }
+        }
+    ]
+
+    }
